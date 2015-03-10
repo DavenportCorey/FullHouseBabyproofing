@@ -1,3 +1,5 @@
+
+
 .jumbo{
     background-image: url(../img/new_bg.jpg);
     background-size: 100%;
@@ -13,12 +15,14 @@
     margin-bottom: 15px;
     font-size: 4em;
 }
-
 .contain-to-grid{
     background: rgba(234, 234, 234, 0.8);
 }
 .top-bar{
     background: none;
+}
+.top-bar .name{
+    font-weight: 500;
 }
 .top-bar .name h1 a {
     color: #1B4B94;
