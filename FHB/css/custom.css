@@ -97,6 +97,9 @@ ul, ol, dl {
     
         
 }
+#FAQ p{
+    color: #fff;
+}
 #FAQ h2,h4{
     color: #fff;
     text-align: center;
