@@ -12,7 +12,6 @@
     text-align: center;
     margin-bottom: 15px;
     font-size: 4em;
-    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 .contain-to-grid{
@@ -163,6 +162,5 @@ a:hover{
     text-align: center;
     margin-bottom: 15px;
     font-size: 2em;
-    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 }
