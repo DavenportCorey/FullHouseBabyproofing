@@ -22,9 +22,6 @@
     background: none;
 }
 
-.logo a {
-    color: #1B4B94;
-}
 
 .top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button){
     background: none;
