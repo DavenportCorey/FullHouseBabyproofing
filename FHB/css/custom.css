@@ -21,10 +21,8 @@
 .top-bar{
     background: none;
 }
-.top-bar .name{
-    font-weight: 500;
-}
-.top-bar .name h1 a {
+
+.logo a {
     color: #1B4B94;
 }
 
