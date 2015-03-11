@@ -21,6 +21,10 @@
 .top-bar{
     background: none;
 }
+.top-bar .name h1 a{
+    color: #1B4B94 !important;
+    font-weight: bold !important;
+}
 
 
 .top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button){
