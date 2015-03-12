@@ -127,7 +127,7 @@ ul, ol, dl {
 
 
 button, .button{
-    background-color: #0D2447 !important;
+    background-color: #0D2447;
     border-color: #0D2447;
 }
 button:hover, .button:hover{
