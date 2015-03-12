@@ -160,6 +160,10 @@ p > .button a:hover{
     border-radius: 5px;
 }
 
+.top-bar .expanded .title-area{
+    background:#fff;
+}
+
 @media only screen and (max-width: 800px) {
     .jumbo{
     margin-bottom: 0;
