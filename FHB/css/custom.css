@@ -137,10 +137,11 @@ h1, h2, h3, h5, h6, a {
     color: #2565C7;
 }
 a:hover{
-    color: #000;
+    color: #005094;
 }
 
 .top-bar .toggle-topbar.menu-icon a span:after {
+    background-color: #0D2447;
     box-shadow: 0 0 0 1px #0D2447, 0 7px 0 1px #0D2447, 0 14px 0 1px #0D2447;
 }
 
@@ -150,7 +151,7 @@ a:hover{
 }
 .top-bar .toggle-topbar.menu-icon {
     background: #fff;
-    background-color: #0D2447; 
+    background-color:#0D2447; 
     margin-right: 5px;
     border-radius: 5px;
 }
