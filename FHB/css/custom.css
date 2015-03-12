@@ -161,7 +161,7 @@ p > .button a:hover{
 }
 
 .top-bar .expanded .title-area{
-    background:#fff;
+    background-color:#fff;
 }
 
 @media only screen and (max-width: 800px) {
