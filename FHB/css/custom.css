@@ -125,23 +125,27 @@ ul, ol, dl {
     font-size: 1.5em !important;
 }
 
+
 button, .button{
-    background-color: #0D2447;
+    background-color: #0D2447 !important;
     border-color: #0D2447;
 }
 button:hover, .button:hover{
-    background-color: rgba(13, 36, 71, 0.5);
+    background-color: rgba(13, 36, 71, 1);
     border-color: #0D2447;
 }
 h1, h2, h3, h5, h6, a {
     color: #2565C7;
 }
 a:hover{
-    color: #005094;
+    color: #EA421E !important;
+}
+p > .button a:hover{
+    color: #fff !important;
 }
 
 .top-bar .toggle-topbar.menu-icon a span:after {
-    background-color: #0D2447;
+    background-color: #fff;
     box-shadow: 0 0 0 1px #0D2447, 0 7px 0 1px #0D2447, 0 14px 0 1px #0D2447;
 }
 
