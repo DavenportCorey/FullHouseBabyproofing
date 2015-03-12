@@ -150,6 +150,7 @@ a:hover{
 }
 .top-bar .toggle-topbar.menu-icon {
     background: #fff;
+    background-color: #0D2447; 
     margin-right: 5px;
     border-radius: 5px;
 }
